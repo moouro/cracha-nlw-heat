@@ -1,4 +1,4 @@
-## Crachá virtual NLW HEART 
+## Crachá virtual NLW HEAT 
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 
 
-[NLW HEART](https://moouro.github.io/cracha-nlw-heart/)
+[NLW HEAT](https://moouro.github.io/cracha-nlw-heart/)
 
 ## Usado na codificação:
 ### Editor de texto padrão
